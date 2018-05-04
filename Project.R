@@ -2,7 +2,7 @@
 #'
 #' Exercise package
 #'
-#' @multiple
+#' @name multiple
 #' @docType package
 #' @import ggplot2
 NULL
